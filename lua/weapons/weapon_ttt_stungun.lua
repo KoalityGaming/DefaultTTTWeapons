@@ -12,7 +12,7 @@ if CLIENT then
    SWEP.ViewModelFOV = 72
 
    SWEP.EquipMenuData = {
-      type = "Weapons",
+      type = "Guns",
       desc = "ump_desc"
    };
 end

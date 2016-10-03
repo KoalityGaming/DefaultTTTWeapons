@@ -12,7 +12,7 @@ if CLIENT then
    SWEP.ViewModelFlip = false
 
    SWEP.EquipMenuData = {
-      type = "Tools",
+      type = "Guns",
       desc = "flare_desc"
    };
 

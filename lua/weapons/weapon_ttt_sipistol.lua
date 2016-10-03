@@ -8,7 +8,7 @@ if CLIENT then
    SWEP.Slot = 6
 
    SWEP.EquipMenuData = {
-      type = "Weapons",
+      type = "Guns",
       desc = "sipistol_desc"
    };
 
